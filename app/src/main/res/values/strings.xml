@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Viewer Practice</string>
+    <string-array name="role_skill">
+        <item>Feed</item>
+        <item>Danger</item>
+        <item>Carryable</item>
+        <item>Experienced</item>
+        <item>Main</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_timeout_title">Remove Player</string>
+    <string name="error_timeout_body">Write Player Name</string>
+    <string name="valor" />
+</resources>
